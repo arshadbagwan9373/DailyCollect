@@ -5,7 +5,7 @@ Daily Collect is an Android application designed to manage a **daily savings sch
 ---
 
 ## 📖 Overview
-Daily Collect empowers financial institutions and agents to efficiently manage customer savings, withdrawals, and complaints. With Firebase integration, the app ensures secure data storage and real-time synchronization, making it accessible anytime, anywhere.
+Daily Collect empowers financial institutions and agents to efficiently manage customer savings, withdrawals, and complaints. With Firebase integration, the app ensures secure data storage and real-time synchronization, making it accessible anytime.
 
 ---
 
