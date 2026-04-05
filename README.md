@@ -76,4 +76,4 @@ Daily Collect empowers financial institutions and agents to efficiently manage c
 ---
 
 ## 💡 Conclusion
-Daily Collect simplifies the management of daily savings schemes by providing a secure, role-based platform for administrators, agents, and customers. With Firebase integration, it ensures efficient operations and improved accessibility across devices.
+Daily Collect simplifies the management of daily savings schemes by providing a secure, role-based platform for administrators, agents, and customers. With Firebase integration, it ensures efficient operations and improved accessibility across devices and to improve work efficiency.
