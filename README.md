@@ -27,7 +27,7 @@ Daily Collect empowers financial institutions and agents to efficiently manage c
 - View daily entries and savings history
 - Apply for withdrawals
 - Track balance and transactions
-- Submit complaints seamlessly
+- Submit complaints easily to admin
 
 ---
 
